@@ -1,0 +1,1 @@
+Scaffold-DbContext "Data Source=.\SQLEXPRESS; Database=Classifieds;Integrated Security=true;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
